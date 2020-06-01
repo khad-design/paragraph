@@ -1,0 +1,15 @@
+.img{
+    max-width: 100%;
+    height: auto;
+}
+
+.cont-1{
+   display: grid;
+    grid-template-columns:50% 40%;
+    grid-column-gap: 1em;
+
+}
+
+.heading{
+    text-align: center;
+}
